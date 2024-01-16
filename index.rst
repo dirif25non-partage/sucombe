@@ -2,7 +2,6 @@ Analyse des données Sucombe
 =============================
 
 .. toctree::
-   :hidden:
    :maxdepth: 3
 
     champSucombe.rst
