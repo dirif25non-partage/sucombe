@@ -20,6 +20,6 @@ html_show_copyright = False
 html_show_sphinx = False
 html_theme_options = {
     "sidebar_hide_name": True,
-    "light_logo": "onPhoto.jpg",
-    "dark_logo": "onPhoto.jpg",
+    "light_logo": "logoDETT.jpg",
+    "dark_logo": "logoDETT.jpg",
 }
