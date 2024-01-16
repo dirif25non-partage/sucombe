@@ -5,7 +5,7 @@ Analyse des données Sucombe
    :hidden:
    :maxdepth: 3
 
-   champSucombe
+   champsPresta
 
 
 L'interface de Sucombe permet d'extraire des tables au format CSV.  
