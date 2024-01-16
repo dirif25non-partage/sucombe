@@ -10,18 +10,11 @@ Analyse des données Sucombe
 L'interface de Sucombe permet d'extraire des tables au format CSV.  
 La première table analysée est celles des **prestations**.
 
-essai 1
-.. raw:: html
+.. csv-table:: Nombre de prestations saisies par Service et par an
+   :file: _static/servAn.csv
+   :widths: 20,  20, 20, 20, 20
+   :header-rows: 1
 
-    <iframe src="_static/2021&22_prev_maintenance.html" height="345px" width="100%"></iframe>
-
-essai 2
-
-.. raw:: html
-    <iframe src="_static/2021&22_prev_maintenance.html" height="345px" width="100%"></iframe>
-
-
-essai 3
 
 .. raw:: html
    :file: _static/2021&22_prev_maintenance.html
