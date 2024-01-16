@@ -2,9 +2,10 @@ Analyse des données Sucombe
 =============================
 
 .. toctree::
+   :hidden:
    :maxdepth: 3
 
-    champSucombe
+   champSucombe
 
 
 L'interface de Sucombe permet d'extraire des tables au format CSV.  
