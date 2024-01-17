@@ -1,4 +1,4 @@
-Ligne d'équipement
+Ligne d'équipements
 -----------------------
 Ce champs prend des valeurs qui sont imposées par l'application et présentées dans une liste de choix. 
 
