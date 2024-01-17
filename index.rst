@@ -9,7 +9,8 @@ Analyse des données de l'application Sucombe
    preventifs
 
 L'interface de l'application Sucombe permet d'extraire des tables au format CSV pour faire des analyses sur les données enregistrées depuis 2017.
-Dans ce document, on se limite aux données enregistrées depuis l'année 2020. 
+Dans ce document, on se limitera cependant aux données enregistrées depuis l'année 2020 car la manière d'utiliser Sucombe a évolué et l'objectif est d'examiner la situation actuelle.
+
 Il est également possible d'accéder aux tables de la base de données sous-jacente mais cela demande davantage d'effort et on essaiera autant que possible de l'éviter.
 
 L'exploitation des données permet de fournir des analyses pertinentes pour la compréhension de l'activité du département DETT et en particulier sur la maintenance des équipements.
