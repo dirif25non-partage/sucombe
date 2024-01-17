@@ -21,6 +21,6 @@ html_show_copyright = False
 html_show_sphinx = False
 html_theme_options = {
     "sidebar_hide_name": True,
-    "light_logo": "logoMTECTTEM.jpg",
-    "dark_logo": "logoMTECTTEM.jpg",
+    "light_logo": "logoMTECTTEM_Sucombe.jpg",
+    "dark_logo":  "logoMTECTTEM_Sucombe.jpg",
 }
