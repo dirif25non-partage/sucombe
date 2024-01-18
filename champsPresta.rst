@@ -4,9 +4,12 @@ Champs de la table des préstations
 .. toctree::
    :hidden:
    :maxdepth: 3
-  id
-  lgnEq
-  type
+
+   libellé
+   id
+   lgnEq
+   type
+   lieu
 
 * Action
 * Libellé
