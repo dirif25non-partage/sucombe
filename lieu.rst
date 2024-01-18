@@ -4,6 +4,7 @@ Il s'agit d'un champ dont il faut choisir la valeur dans une liste.
 
 Le tableau ci-dessous indique les valeurs proposées avec le nombre de prestations en 2023 et les montants cumulés par lieu.
 
+.. csv-table:: Nombres de prestations et montants en 2023 par valeur du champ Lieu
    :file: _static/lieu2023.csv
    :widths: 60, 40, 40
    :header-rows: 1
