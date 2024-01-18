@@ -9,6 +9,8 @@ Le tableau ci-dessous indique les valeurs proposées avec le nombre de prestatio
    :widths: 60, 40, 40
    :header-rows: 1
 
+Les critères du choix de la valeur "PCTT" ne sont pas les mêmes pour tous les utilisateurs et mériteraient d'être clarifiés.
+
 Quand il s'agit d'un tunnel, le champ lieu permet de l'identifier mais ce champs ne donne pas d'information pour les équipements de gestion du trafic.
 
 
