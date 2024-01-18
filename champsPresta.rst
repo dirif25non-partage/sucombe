@@ -10,6 +10,7 @@ Champs de la table des préstations
    lgnEq
    type
    lieu
+   marche
 
 * Action
 * Libellé
