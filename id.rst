@@ -10,3 +10,6 @@ Le schéma de construction du champ est :
 ``PRESTA/{année}_{Service}_{Marché}_{indice}``
 
 On retrouve les champs Service et Marché dans  la table.
+
+L'année est l'année de la *création* de la prestation qui peut être antérieure à l'année de réalisation.
+
