@@ -13,7 +13,7 @@ Le type ``Prestations intellectuelles`` recouvre des choses très différentes t
 
 L'astreinte pour un marché qui est généralement classé en ``Prestations intellectuelles`` pourrait aussi être classé ``Préventif``.
 
-Le tyoe Urgence est une forme de ``Curatif`` et il faudrait dire le critère qui fait passer de l'un à l'autre type.
+Le type ``Urgence`` apparait comme une variante du type ``Curatif`` et il faudrait expliciter le critère de sélection de ce type.
 
 
 
