@@ -5,7 +5,7 @@ Champs de la table des préstations
    :hidden:
    :maxdepth: 3
 
-   libellé
+   libelle
    id
    lgnEq
    type
