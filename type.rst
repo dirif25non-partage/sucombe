@@ -19,7 +19,7 @@ Dans le graphique ci-dessous on a croisé les champs Ligne d'équipements et Typ
 
 
 .. raw:: html
-   :file: https://storage.googleapis.com/dirif-nalin/21-22%20Budget_tunnels.html
+   :file:  _static/21-22 Budget_tunnels.html
 
 
 
