@@ -15,6 +15,14 @@ L'astreinte pour un marché qui est généralement classé en ``Prestations inte
 
 Le type ``Urgence`` apparait comme une variante du type ``Curatif`` et il faudrait expliciter le critère de sélection de ce type.
 
+Dans le graphique ci-dessous on a croisé les champs Ligne d'équipements et Type :
+
+
+.. raw:: html
+   :file: https://storage.googleapis.com/dirif-nalin/21-22%20Budget_tunnels.html
+
+
+
 
 
 
