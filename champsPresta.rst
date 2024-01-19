@@ -25,6 +25,6 @@ Champs de la table des préstations
 * Montant Constaté HT
 * :doc:`Marché<cp6_marche>`
 * Agent
-* Service
+* :doc:`Service<cp7_service>`
 * État
 
