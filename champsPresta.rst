@@ -11,6 +11,7 @@ Champs de la table des préstations
    cp4_type
    cp5_lieu
    cp6_marche
+   cp7_service
 
 * Action
 * :doc:`Libellé<cp1_libelle>`
