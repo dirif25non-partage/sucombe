@@ -9,4 +9,4 @@ Le tableau ci-dessous présente les budgets pour les années 2021-2022.
 .. raw:: html
    :file: _static/2021&22_prev_maintenance.html
 
-!! Un tableau plus récent est présenté :doc:`ICI<cp4_type`
+!! Un tableau plus récent est présenté :doc:`ICI<cp4_type>`
