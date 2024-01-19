@@ -2,6 +2,12 @@ Service
 ---------
 Le champs service doit être choisi dans une liste définie par la configuration de l'application Sucombe.
 
+La table suivante montre les nombres de saisies par service et par année.
+
+.. csv-table:: Nombre de prestations saisies par Service et par année
+   :file: _static/servAn.csv
+   :widths: 39,  9, 9, 9, 9
+   :header-rows: 1
 
   
 
