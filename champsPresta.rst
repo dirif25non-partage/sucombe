@@ -5,12 +5,12 @@ Champs de la table des préstations
    :hidden:
    :maxdepth: 3
 
-   libelle
-   id
-   lgnEq
-   type
-   lieu
-   marche
+   cp1_libelle
+   cp2_id
+   cp3_lgnEq
+   cp4_type
+   cp5_lieu
+   cp6_marche
 
 * Action
 * Libellé
