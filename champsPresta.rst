@@ -13,7 +13,7 @@ Champs de la table des préstations
    cp6_marche
 
 * Action
-* Libellé
+* `Libellé<cp1_libelle>`
 * Identifiant
 * Date création
 * Numméro OT
