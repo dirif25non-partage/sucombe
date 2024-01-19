@@ -27,20 +27,20 @@ Par nombres d'occurences décroissants les valeurs du  champ **Ligne d'équipeme
 * Evenementiel
 * VH
 
-Les nombres de prestations depuis 2020 par ligne et par les principaux services sont présentés dans le tableau ci-dessous.
+Les nombres de prestations depuis 2020, par ligne et pour les principaux services, sont présentés dans le tableau ci-dessous.
 
 .. csv-table:: Nombre de prestations saisies par Service et par ligne d'équipements
    :file: _static/lgnServ.csv
    :widths: 19,  9, 9, 9, 9, 9, 9, 9, 9, 9
    :header-rows: 1
 
-On a choisi d'ajouter des valeurs du champs **Ligne d'Equipements** qui ne sont pas des lignes d'Equipements comme :
+Le configurateur de Sucombe a choisi d'ajouter des valeurs du champs **Ligne d'Equipements** qui ne sont pas des lignes d'Equipements comme :
+
 ``Controle règlementaire, Sécurité Tunnel, Propreté, Evenementiel`` .
 
-Cela crée une ambiguité sur ce qu'il faut choisir quand on fait le contrôle d'un tableau électrique, par exemple. 
-On risque de choisir le champ en lien avec le marché spécifique mais ce n'est alors pas très utile puisque le marché 
-utilisé est aussi renseigné dans Sucombe.
+Cela crée une ambiguité sur ce qu'il faut choisir, par exemple, quand on fait le contrôle règlementaire d'un tableau électrique. 
+L'utilisateur risque de choisir la valeur du champ *Ligne d'équipements* en lien avec le marché spécifique concerné, mais ce n'est alors pas très utile puisque le marché est aussi renseigné dans Sucombe.
 
-Il faudrait donc expliciter la manière d'utiliser ces champs.
+Il faudrait donc expliciter pour les utilisateurs les critères pour sélectionner ces valeurs du champ.
 
 
