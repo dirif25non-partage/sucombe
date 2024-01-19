@@ -1,6 +1,31 @@
 Ligne d'équipements
 -----------------------
-Ce champs prend des valeurs qui sont imposées par l'application et qui sont présentées dans une liste de choix. 
+Le champ **Ligne d'équipements** prend des valeurs imposées par la configuration de l'application qui sont présentées dans une liste de choix.
+Par nombres d'occurences décroissants les valeurs du  champ **Ligne d'équipements** sont :
+
+* Distribution Electrique
+* Video surveillance
+* Batiment
+* RAD
+* Systeme informatique
+* Detection
+* Eclairage
+* Signalisation Dynamique
+* Pompage
+* RAU
+* Sécurité Tunnel
+* Ventilation
+* Climatisation
+* Proprete
+* Automates
+* Communication de donnees
+* Controle reglementaire
+* Reseau Incendie
+* Fermeture Physique
+* Extincteurs
+* Assainissement
+* Evenementiel
+* VH
 
 Les nombres de prestations depuis 2020 par ligne et par les principaux services sont présentés dans le tableau ci-dessous.
 
