@@ -19,6 +19,7 @@ Utilité des analyses envisagées
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 L'exploitation des données permet de fournir des analyses pertinentes pour la compréhension de l'activité du département DETT, en particulier sur la maintenance des équipements.
 Elle éclaire aussi sur la manière dont l'application Sucombe est utilisée par les agents et permet de formuler des actions d'amélioration à ce niveau.
+
 Table des prestations
 ^^^^^^^^^^^^^^^^^^^^^^
 La première table analysée est celle des **prestations** car elle contient des informations assez riches sur l'ensemble des commandes.
