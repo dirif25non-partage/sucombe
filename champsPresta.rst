@@ -7,6 +7,7 @@ Champs de la table des préstations
 
    cp1_libelle
    cp2_id
+   cp28_numOT
    cp3_lgnEq
    cp4_type
    cp5_lieu
