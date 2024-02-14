@@ -8,6 +8,8 @@ Pour ces marchés, l'application identifie aussi chaque ligne du BPU avec son in
 Dans le cas où la prestation est commandée hors des marchés qui sont décrits dans Sucombe, le champ Marché ne permet que de préciser que
 c'est un marché d'un autre service de la DIRIF ou un marché *national* c'est à dire mutualisé au niveau du ministère ou au delà (UGAP).
 
+Pour faire apparaitre la période d'activation des marchés, le tableau suivant indique par marché le premier et le dernier mois pour lesquels une prestation a été saisie dans Sucombe.
+
 .. csv-table:: Marchés, dates et montants
    :file: _static/marchDtMt.csv
    :widths: 40, 20, 20, 20
