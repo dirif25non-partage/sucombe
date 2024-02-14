@@ -43,4 +43,6 @@ L'utilisateur risque de choisir la valeur du champ *Ligne d'équipements* en lie
 
 Il faudrait donc expliciter pour les utilisateurs les critères pour sélectionner ces valeurs du champ.
 
+Certains choix de lignes d'équipements comme *Signalisation Dynamique* manquent de précision et pourraient être décomposés en *PMV, CAC, SAV ...*
+
 
