@@ -7,6 +7,7 @@ Analyse des données de l'application Sucombe
 
    champsPresta
    preventifs
+   preconisations
 
 Source des données analysées
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
