@@ -1,6 +1,7 @@
 
 p {
 font-weight: bold;
+color: red;
 }
 
 .custom-summary {
@@ -9,11 +10,13 @@ font-weight: bold;
 
 body  {
 font-weight: bold;
-  font-size: 150%;
+font-size: 150%;
+color: red;
 }
 
 
 custom-summary {
+color: red;
 font-weight: bold;
   font-size: 150%;
 }
