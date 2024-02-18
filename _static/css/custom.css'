@@ -8,7 +8,7 @@ color: red;
 font-weight: bold;
 }
 
-body  {
+summary  {
 font-weight: bold;
 font-size: 150%;
 color: red;
