@@ -3,4 +3,4 @@
 p {color: #049;}
 details.custom-summary  {font-size: 150%;color: #44f;}
 
-details.p.custom-summary {color: red;  font-size: 70%;}
+.custom-summary {color: red;  font-size: 70%;}
