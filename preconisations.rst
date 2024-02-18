@@ -16,7 +16,7 @@ Dans cette partie, on rassemble des préconisations qui ont été formulées dan
     dans les champs lieu, ligne d'équipement, marché, type ... 
     Il n'est pas utile de saisir une information contenue dans un autre champ, mais on peut fournir des précisions intéressantes.
 
-.. collapse:: Details
+.. collapse:: **Details**
     :class: custom-summary
 
     Something small enough to escape casual notice.
