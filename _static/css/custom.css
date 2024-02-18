@@ -1,6 +1,6 @@
 
 # details {color: #4f4;}
-p {color: #044;}
+p {color: #049;}
 details.custom-summary  {font-size: 150%;color: #44f;}
 
-p.custom-summary {color: red;  font-size: 70%;}
+details.p.custom-summary {color: red;  font-size: 70%;}
