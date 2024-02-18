@@ -8,15 +8,15 @@ color: #4f4;
 font-weight: bold;
 }
 
-summary  {
+custom-summary.summary  {
 font-weight: bold;
 font-size: 150%;
 color: #44f;
 }
 
 
-custom-summary {
+custom-summary.p {
 color: red;
 font-weight: bold;
-  font-size: 150%;
+  font-size: 50%;
 }
