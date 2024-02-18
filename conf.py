@@ -17,6 +17,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'furo'
 html_favicon = 'https://storage.googleapis.com/idf-congestion/favicon.ico'
 html_static_path = ['_static']
+html_css_files = [    'css/custom.css',]
 html_show_copyright = False
 html_show_sphinx = False
 html_theme_options = {
