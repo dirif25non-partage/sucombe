@@ -10,8 +10,9 @@ par catégorie d'équipements et par axe.
 
 .. collapse:: Description de la prestation
 
-Les informations saisies dans la description de la prestation doivent servir à compléter les informations qui sont saisies par ailleurs dans les champs lieu, ligne d'équipement, marché, type ... 
-Il n'est pas utile de saisir une information contenue dans un autre champ, mais on peut fournir des précisions intéressantes.
+    Les informations saisies dans la description de la prestation doivent servir à compléter les informations qui sont saisies par ailleurs 
+    dans les champs lieu, ligne d'équipement, marché, type ... 
+    Il n'est pas utile de saisir une information contenue dans un autre champ, mais on peut fournir des précisions intéressantes.
 
 .. collapse:: Details
 
