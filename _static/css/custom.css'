@@ -1,3 +1,4 @@
+
 p {
 font-weight: bold;
 }
@@ -6,7 +7,7 @@ font-weight: bold;
 font-weight: bold;
 }
 
-. {
+body  {
 font-weight: bold;
   font-size: 150%;
 }
