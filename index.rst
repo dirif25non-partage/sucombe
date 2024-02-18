@@ -31,7 +31,7 @@ Le tableau ci-dessous fournit les nombres de prestations saisies dans Sucombe su
    :widths: 20,  20, 20, 20, 20
    :header-rows: 1
 
-Les :doc:`champs de cette table <champSucombe>` sont les suivants :
+Les :doc:`champs de cette table <champsPresta>` sont les suivants :
 ``'Action', 'Libellé', 'Identifiant', 'Date création', 'Numméro OT','Ligne d'équipement', 'Type', 'Lieu','Date prév.', 
 'Montant prestation HT', 'Montant Constaté HT', 'Marché', 'Agent', 'Service', 'État'``
 
