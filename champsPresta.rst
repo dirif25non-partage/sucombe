@@ -16,7 +16,7 @@ Champs de la table des préstations
 
 * Action
 * :doc:`Libellé<cp1_libelle>`
-* :doc:`Identifiant<cp_id>`
+* :doc:`Identifiant<cp2_id>`
 * Date création
 * :doc:`Numéro OT<cp28_numOT>`
 * :doc:`Ligne d'équipements<cp3_lgnEq>`
