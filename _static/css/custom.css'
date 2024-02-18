@@ -1,3 +1,9 @@
 .custom-summary {
 font-weight: bold;
 }
+
+
+custom-summary {
+font-weight: bold;
+  font-size: 150%;
+}
