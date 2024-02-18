@@ -1,22 +1,9 @@
 
-details {
-font-weight: bold;
-color: #4f4;
-}
+details {color: #4f4;}
 
-.custom-summary {
-font-weight: bold;
-}
-
-custom-summary.summary  {
-font-weight: bold;
-font-size: 150%;
-color: #44f;
-}
-
+custom-summary.summary  {font-size: 150%;color: #44f;}
 
 custom-summary.p {
 color: red;
-font-weight: bold;
-  font-size: 50%;
+  font-size: 70%;
 }
